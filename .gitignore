@@ -1038,3 +1038,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Day10/Day10
+Day10/.vscode/c_cpp_properties.json
+Day10/.vscode/launch.json
+Day10/.vscode/settings.json
+.vscode/settings.json
+.vscode/settings.json
